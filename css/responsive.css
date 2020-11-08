@@ -1,0 +1,30 @@
+@media screen and (max-width: 785px){
+	html, body, .main{
+		height: auto;
+	}
+	.logo-box{
+	  float: none;
+	  width: 100%;
+	}
+	.login{
+	  float: none;
+	  width: 100%;
+	}
+	.logo-box .logo img{
+	  position: none;
+	  width: 100%;
+	  margin: 3rem 0;
+	  top: 0%;
+	  left: 0;
+	  transform: translate(0, 0);
+	}
+	.form-login{
+	  position: none;
+	  width: 90%;
+	  margin: 0 5% 5rem;
+	  min-height: 25rem;
+	  top: 0;
+	  left: 0;
+	  transform: translate(0, 0);
+	}
+}
